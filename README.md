@@ -1,4 +1,7 @@
 # Movie Recommendation System python
-**A simple recommendation system that let's user select a movie from the MovieLens dataset and recommends movies similar to the selected movie. This model uses content based techniques to make predictions**
 
-**The user needs to run all cells and in the last code cell needs to enter  a movie name as it is in the dataset. The movie name must be followed by year of release in () and it should be enclosed with ' ' .**
+**This repo contains two types of recommendation system:**
+
+**1.Content Based - MovieLens recommender System.ipynbp - A simple recommendation system that let's user select a movie from the MovieLens dataset and recommends movies similar to the selected movie. This model uses content based techniques to make predictions**
+
+**2.Collaborative filtering - Colabrative_filtering_self.ipynb - A Collaborative filtering model using fastai**
