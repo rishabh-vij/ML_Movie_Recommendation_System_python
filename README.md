@@ -11,6 +11,8 @@
 
 **2.Collaborative filtering - Colabrative_filtering_self.ipynb - A Collaborative filtering model using fastai**
 
+**The models are trained on the IMDB movie dataset**
+
 ## Dependencies
 
 pandas
