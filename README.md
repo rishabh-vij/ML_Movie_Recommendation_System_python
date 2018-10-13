@@ -9,7 +9,7 @@
 
 **1.Content Based - MovieLens recommender System.ipynbp - A simple recommendation system that let's user select a movie from the MovieLens dataset and recommends movies similar to the selected movie. This model uses content based techniques to make predictions**
 
-**2.Collaborative filtering - Colabrative_filtering_self.ipynb - A Collaborative filtering model using fastai**
+**2.Collaborative filtering - Colabrative_filtering_self.ipynb - A Collaborative filtering model that explores the worst, top and correlation between movies by training embeddings for them using fastai**
 
 **The models are trained on the IMDB MovieLens dataset**
 
