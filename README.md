@@ -21,8 +21,6 @@ fastai
 
 pytorch
 
-PIL
-
 h5py
 
 numpy
